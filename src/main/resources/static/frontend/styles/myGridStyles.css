@@ -1,0 +1,3 @@
+:host(.my-grid) [part="row"] {
+    max-height: 150px;
+}
